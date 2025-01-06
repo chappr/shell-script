@@ -15,7 +15,7 @@ then
 echo "Installing MySql ... Failure"
 exit 1
 else
-echo " Installing MySql ...Success
+echo "Installing MySql ...Success"
 
 
 dnf install git -y 
@@ -25,4 +25,4 @@ then
 echo "Installing Git ... Failure"
 exit 1
 else
-echo " Installing Git ...Success
+echo "Installing Git ...Success"
